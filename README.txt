@@ -11,3 +11,6 @@ good unit test style to test everything in one Test-Method. The original method 
 confirmation.
 
 Clean Code principles have been applied for easy maintenance and readability.
+
+The requested interfaces have been kept although there might be better solutions and Multi-Character SKUs
+are not supported. Normally I would have used Objects for the items, that might also contain more information.
